@@ -1,6 +1,8 @@
 # spotify-connect-popup-example
 An example to show how connect popups talk to each other when receiving token, this example uses Spotify Web API
 
+Blog post with explanations: http://www.dimagimburg.com/authentication-and-login-popup-window-handling-for-social-medias-code-example/
+
 install:
 
 1. clone this repo or download zip
